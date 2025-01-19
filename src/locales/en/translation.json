@@ -1,0 +1,25 @@
+{
+    "direction": "ltr",
+    "navbar": {
+      "items": [
+        "Home",
+        "About",
+        "Services",
+        "Contact"
+      ]
+    }, 
+    "hero": {"header": "Stories in Your Family's Voice", "button": "Download Now !"}, 
+    "highlights": {
+      "title": "Get the Highlights",
+      "watchFilm": "Watch the Film",
+      "watchEvent": "Watch the Event"
+    },
+    "footerLinks": {
+    "items": [
+      "Privacy Policy",
+      "Terms of Use",
+      "Legal",
+      "Site Map"
+    ]
+  }
+}
